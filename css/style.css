@@ -11,13 +11,8 @@
 html{
     font-size: 62.5%;
     box-sizing: border-box;
-    scroll-snap-type: y proximity;
 }
 
-.servicios-inicio, .navegacion-principal, .formulario{
-    scroll-snap-align: center;
-    scroll-snap-stop: always;
-}
 
 *, *:before, *:after {
     box-sizing: inherit;
