@@ -14,7 +14,7 @@ html{
     scroll-snap-type: y mandatory;
 }
 
-.servicios, .navegacion-principal, .formulario{
+.servicios-inicio, .navegacion-principal, .formulario{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
